@@ -8,7 +8,7 @@ export const SidebarChat = () => {
             <Avatar/>
             <div className="sidebarChat__info">
                 <h2>Room name</h2>
-                <p>This  is the last message</p>
+                <p>This is the last message</p>
             </div>
         </div>
     )
